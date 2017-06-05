@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pdbo_study.iml" filepath="$PROJECT_DIR$/.idea/pdbo_study.iml" />
-      <module fileurl="file://E:\pycharmStudy\test\.idea\test.iml" filepath="E:\pycharmStudy\test\.idea\test.iml" />
     </modules>
   </component>
 </project>

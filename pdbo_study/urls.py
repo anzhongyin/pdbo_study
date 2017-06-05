@@ -23,5 +23,4 @@ urlpatterns = [
     url(r'form/',views.form),
     url(r'navs/',views.navs),
     url(r'image/',views.image),
-    url(r'description/',views.description),
 ]
