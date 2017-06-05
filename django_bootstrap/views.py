@@ -18,3 +18,6 @@ def description(request):
 
 def olist(request):
     return render(request,'olist.html')
+
+def ulist(request):
+    return render(request,'ulist.html')
