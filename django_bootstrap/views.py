@@ -12,3 +12,6 @@ def navs(request):
 
 def image(request):
     return render(request,'image.html')
+
+def ulist(request):
+    return render(request,'ulist.html')
