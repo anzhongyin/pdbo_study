@@ -20,4 +20,5 @@ from django_bootstrap import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'home/', views.home),
+    url(r'form/',views.form),
 ]
