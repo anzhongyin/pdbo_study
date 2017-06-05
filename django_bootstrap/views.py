@@ -6,3 +6,6 @@ def home(request):
 
 def form(request):
     return  render(request,'form.html')
+
+def navs(request):
+    return render(request,'navs.html')
