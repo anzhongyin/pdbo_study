@@ -9,3 +9,6 @@ def form(request):
 
 def navs(request):
     return render(request,'navs.html')
+
+def image(request):
+    return render(request,'image.html')
