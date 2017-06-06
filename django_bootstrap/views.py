@@ -16,5 +16,7 @@ def image(request):
 def description(request):
     return render(request,'description.html')
 
+def ulist(request):
+    return render(request,'ulist.html')
 def olist(request):
     return render(request,'olist.html')
