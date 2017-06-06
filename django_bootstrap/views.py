@@ -15,4 +15,5 @@ def image(request):
 
 def description(request):
     return render(request,'description.html')
-
+def olist(request):
+    return render(request,'olist.html')
